@@ -71,8 +71,8 @@ struct Chat
 	{
 		PRIVATE = "private",
 		GROUP = "group",
-		SUPERGROUP = "SUPERGROUP",
-		CHANNEL = "CHANNEL"
+		SUPERGROUP = "supergroup",
+		CHANNEL = "channel"
 	}
 
 	string id;
